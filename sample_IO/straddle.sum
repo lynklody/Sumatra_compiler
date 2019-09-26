@@ -1,0 +1,4 @@
+program straddle;
+declare a,c; { a comment }
+print 0;
+end program;
